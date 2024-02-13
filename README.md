@@ -17,7 +17,7 @@ git add
 
 git commit
 
-# คำสั่ง Pythom พื้นฐาษ
+# คำสั่ง Pythom พื้นฐาo
 
 python
 
