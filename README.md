@@ -20,6 +20,7 @@ git commit
 # คำสั่ง Pythom พื้นฐาษ
 
 python
+
 d = { 'Anna' : 3.99, 'Betty' : 3.78 }
 
 for k,v in d.item():
